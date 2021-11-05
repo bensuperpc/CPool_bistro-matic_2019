@@ -1,0 +1,9 @@
+*.out
+*.o
+*.gcno
+*.gcda
+*libmy.a
+tests/bistromatic
+infin_add/infin_add
+infin_mult/infin_mult
+lib/tests/*

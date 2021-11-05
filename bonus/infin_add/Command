@@ -1,0 +1,1 @@
+./infin_add "1" "$(cat test20K.txt)"
